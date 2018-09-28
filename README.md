@@ -1,5 +1,5 @@
 # Welcome to Y1 Yearlong!! 
-Your one-stop shop for all Y1 yearlong materials [2018s-2019]
+Your one-stop shop for all Y1 yearlong materials [2018-2019]
 
 (each student should have it's own github pass, that is responsible to keep it secret.)
 
