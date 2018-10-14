@@ -61,7 +61,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
         <a target="_blank" href="https://drive.google.com/open?id=1DWleJMdGl59A5CLXwOBY_U6o12jB2H3f-2Z-TdV0I2c">Lecture 2</a>
     </td>
     <td> <a target="_blank" href="https://drive.google.com/open?id=1pwXKjmBavApb1tW7e1gyTvbkQWvcQeNq9KzUTnzaR3g">LAB 2 </a></td>
-    <td>DU- Means of Communication </td>
+    <td>DU - 1:1 (X2)</td>
 </tr>
 <tr>
     <td> 3 </td>
@@ -87,8 +87,8 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     </td>
     <td> <a href="https://drive.google.com/open?id=195f7bQOkxA9aYuflTBAU28HE_XG-HwDDDPm4aDkmqq0">Lecture 4</a> </td>
     <td> <a href="https://drive.google.com/open?id=1TznIPvpJV6X_so8Ns037qIBe8hahFCvBNLPWSLs1Pio">LAB 4</b> </td>
-    <td>
-        DU - 1:1 (X2)
+    <td>DU- Means of Communication 
+        
     </td>
 </tr>
 <tr>
