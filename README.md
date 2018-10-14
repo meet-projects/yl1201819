@@ -87,9 +87,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     </td>
     <td> <a href="https://drive.google.com/open?id=195f7bQOkxA9aYuflTBAU28HE_XG-HwDDDPm4aDkmqq0">Lecture 4</a> </td>
     <td> <a href="https://drive.google.com/open?id=1TznIPvpJV6X_so8Ns037qIBe8hahFCvBNLPWSLs1Pio">LAB 4</b> </td>
-    <td>DU- Means of Communication 
-        
-    </td>
+    <td>DU- Means of Communication </td>
 </tr>
 <tr>
     <td> 5 </td>
