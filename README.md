@@ -99,9 +99,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     </td>
     <td> None </td>
     <td> None </td>
-    <td>
-        DU - 1 h - empathy
-    </td>
+    <td>DU - Social Media</td>
 </tr>
 <tr>
     <td> 6 </td>
@@ -113,9 +111,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     </td>
     <td> <a href="https://drive.google.com/open?id=1l38vFGuY2NtzqKmSJ4MvJyi7y9gRUDcVoN5cHGlCyOs">Lecture 6</a> </td>
     <td> <a href="https://drive.google.com/open?id=16j1EJNbmOHPvcboDmJkA4hO9Sqs0QaXy6y-smda3OOY">LAB 6</a> </td>
-    <td>
-        present the non-dual transformation of conflicts model
-    </td>
+    <td>Present the non-dual transformation of conflicts model (related to the news)</td>
 </tr>
 <tr>
     <td> 7 </td>
@@ -127,7 +123,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     </td>
     <td> None </td>
     <td> None </td>
-    <td>DU - wise speech (kind hearted, truthful, helpful and timely). </td>
+    <td>Bringing examples they found for the non-dual transformation of conflicts model (related to the news)</td>
 </tr>
 <tr>
     <td> 8 </td>
@@ -142,7 +138,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     <td> <a href="https://drive.google.com/open?id=1-yr_piEt-8SdsWfT1cgD_i0VcSIBOnquCAKlFOoIZz4">Lecture8</a>
     <a href="https://drive.google.com/open?id=1bC_s5WcAUxGy4dm19J2XyZAPkhrqVQI7h4mH6EBEy5Q">Lecture 8 (2)</a></td>
     <td> <a href="https://drive.google.com/open?id=12ZMsWiOKGqyEtAL6v0QE_1l5Jr2xD1SEMyBiE0LlbIY">LAB 8 (2)</a> </td>
-    <td>DU - Social Media</td>
+    <td>DU - wise speech (kind hearted, truthful, helpful and timely). </td>
 </tr>
 <tr>
     <td> 9 </td>
