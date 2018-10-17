@@ -58,7 +58,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
         </ul>
     </td>
     <td>
-        <a target="_blank" https://drive.google.com/open?id=1s1vMtjaLnV3k4pfUo2-dm7xu2uwQFN0hkIKKbNuDB3k">Lecture 2</a>
+        <a target="_blank" href="https://drive.google.com/open?id=1s1vMtjaLnV3k4pfUo2-dm7xu2uwQFN0hkIKKbNuDB3k">Lecture 2</a>
     </td>
     <td> <a target="_blank" href="https://drive.google.com/open?id=1pwXKjmBavApb1tW7e1gyTvbkQWvcQeNq9KzUTnzaR3g">LAB 2 </a></td>
     <td>DU - 1:1 (X2)</td>
