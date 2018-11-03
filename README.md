@@ -94,11 +94,11 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
     <td> Nov. 4 </td>
     <td>
         <ul>
-            <li>Complex turtle shapes(using loops and recursions)</li>
+            <li>Problem Solving and Debugging</li>
         </ul>
     </td>
-    <td> None </td>
-    <td> None </td>
+    <td> <a href="https://drive.google.com/open?id=1QbQNK_2PpM_C5LjdmqFuc_iElpYDSj3BXH_ZiUDj1IQ">Lecture 5</a> </td>
+    <td> <a href="https://drive.google.com/open?id=1QbQNK_2PpM_C5LjdmqFuc_iElpYDSj3BXH_ZiUDj1IQ">LAB 5></a> </td>
     <td>DU - Social Media</td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
             <li> Inheritance </li>
         </ul>
     </td>
-    <td> <a href="https://drive.google.com/open?id=1l38vFGuY2NtzqKmSJ4MvJyi7y9gRUDcVoN5cHGlCyOs">Lecture 6</a> </td>
+    <td> <a href="https://drive.google.com/open?id=1Dq7RENm3OxNOWvSTl8O4TdP6tQtVMSYUvFmjOrYVmsU">Lecture 6</a> </td>
     <td> <a href="https://drive.google.com/open?id=16j1EJNbmOHPvcboDmJkA4hO9Sqs0QaXy6y-smda3OOY">LAB 6</a> </td>
     <td>Present the non-dual transformation of conflicts model (related to the news)</td>
 </tr>
