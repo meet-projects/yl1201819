@@ -97,8 +97,8 @@ Go to **[http://github.com/meet-projects/yl1201819](https://github.com/meet-proj
             <li>Problem Solving and Debugging</li>
         </ul>
     </td>
-    <td> <a href="https://drive.google.com/open?id=1QbQNK_2PpM_C5LjdmqFuc_iElpYDSj3BXH_ZiUDj1IQ">Lecture 5</a> </td>
-    <td> <a href="https://drive.google.com/open?id=1QbQNK_2PpM_C5LjdmqFuc_iElpYDSj3BXH_ZiUDj1IQ">LAB 5></a> </td>
+    <td> <a href="https://drive.google.com/open?id=1Dq7RENm3OxNOWvSTl8O4TdP6tQtVMSYUvFmjOrYVmsU">Lecture 5</a> </td>
+    <td> <a href="https://drive.google.com/open?id=1QbQNK_2PpM_C5LjdmqFuc_iElpYDSj3BXH_ZiUDj1IQ">LAB 5</a> </td>
     <td>DU - Social Media</td>
 </tr>
 <tr>
